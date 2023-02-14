@@ -1,0 +1,8 @@
+.photos-container {
+    width: 1000px;
+    height: 500px;
+    margin-top: 30px;
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
